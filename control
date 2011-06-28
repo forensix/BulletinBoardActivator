@@ -1,0 +1,9 @@
+Package: com.manuelgebele.bulletinboardactivator
+Name: BulletinBoardActivator
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Manuel Gebele
+Author: Manuel Gebele
+Section: Tweaks
